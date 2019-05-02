@@ -1,2 +1,2 @@
 # potent-potables
-Simple Reach app that provides basic cocktail information
+Simple React app that provides basic cocktail information
