@@ -1,0 +1,24 @@
+.TheDisplay {
+    width: 80%;
+    align-self: center;
+    margin: 1em 0;
+    display: flex;
+    flex-flow: column;
+}
+
+div.TheDisplay p {
+    margin: .5em 0;
+}
+
+ul.TheDisplay {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+ul.TheDisplay li {
+    margin: .5em 0;
+}
+
+ul.TheDisplay li:first-child {
+    margin-top: 0;
+} 

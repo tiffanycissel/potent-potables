@@ -1,0 +1,15 @@
+.Button {
+    box-shadow: none;
+    background: lightslategray;
+    border: solid 1.25px darkslategray;
+    text-transform: uppercase;
+    margin: .5em .125em;
+    max-width: 300px;
+    padding: .75em 0;
+    border-radius: .25em;
+    color: white;
+    font-weight: bold;
+    font-size: .95em;
+    width: 80%;
+    cursor: pointer;
+}

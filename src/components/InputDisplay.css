@@ -1,0 +1,5 @@
+.InputDisplay-label, .InputDisplay-select, .InputDisplay-input {
+    width: 80%;
+    align-self: center;
+    max-width: 300px;
+}

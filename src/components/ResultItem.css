@@ -1,0 +1,18 @@
+.ResultItem span {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.ResultItem-Detail-Hide {
+    display: none;
+}
+
+.ResultItem-Detail-Show {
+    display: block;
+    background: rgba(255,255,255,.25);
+    padding: .025em .5em;
+}
+
+.ResultItem-Detail-Show p {
+    margin: .5em 0;
+}
